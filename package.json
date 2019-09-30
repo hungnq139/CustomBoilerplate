@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
+    "native-base": "^2.13.8",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-redux": "^7.1.1",
